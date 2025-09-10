@@ -12,9 +12,7 @@ Data can be browsed and downloaded from [CZI CellxGene](https://cellxgene.czisci
 
 ### scRNA-seq
 
-[Raw sequencing data of primary human fetal lungs](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-11528)
-
-[Raw sequencing data of human fetal lung organoids]()
+[Raw sequencing data of primary human fetal lungs and human fetal lung organoids](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-11528)
 
 <details>
   <summary><b>genotyping</b></summary>
